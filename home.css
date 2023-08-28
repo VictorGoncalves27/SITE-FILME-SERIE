@@ -1,0 +1,213 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    background: #3D3535;
+}
+
+
+main{
+    width: 95vw;
+    margin: auto;
+    
+}
+
+.nome{
+    background-color: 121111;
+    display: flex;
+    color: white;
+    text-decoration: none;
+    color: #FFFEFE;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: McLaren;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+h2{
+  
+    display: flex;
+    padding: 80px;
+    justify-content: space-evenly;
+    text-decoration: none;
+    background-color: #121111;
+}
+
+.aba{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-around;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 40px;
+    font-size: larger;
+    margin: 5px;
+    font-family: McLaren;
+}
+
+.titulo1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 50px;
+    font-size: larger;
+    padding-top: 90px;
+    font-family: McLaren;    
+}
+
+.acesso{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+.acesso h5{
+ background-color: rgb(190, 35, 56);
+ color: white;
+ padding: 20px 30px;
+ border-radius: 20px;
+ transition: .5s;
+}
+
+.acesso a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.acesso h5:hover{
+    background-color: black;
+    transition: .5s;
+}
+
+.acesso h3{
+
+    background-color: rgb(190, 35, 56);
+    color: white;
+    padding: 20px 30px;
+    border-radius: 20px;
+    transition: .5s;
+    text-decoration: none;  
+
+}
+
+.acesso1 h3:hover{
+    background-color: rgb(0, 0, 0);
+    transition: .5s;
+    text-decoration: none;
+}
+
+.acesso1 h3{
+    color: white;
+    background-color: rgb(190, 35, 56);
+    transition: .5s;  
+    padding: 20px 30px;
+    border-radius: 25px;
+}
+
+
+
+.acesso2 h3{
+
+    background-color: rgb(190, 35, 56);
+    color: white;
+    padding: 20px 30px;
+    border-radius: 20px;
+    transition: .5s;
+    text-decoration: none;  
+
+}
+
+.acesso2 h3:hover{
+    background-color: rgb(0, 0, 0);
+    transition: .5s;
+    text-decoration: none;
+}
+
+.acesso2 h3{
+    background-color: rgb(190, 35, 56);
+    transition: .5s;  
+    padding: 20px 30px;
+    border-radius: 25px;
+}
+
+
+.filmx{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+.serix{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding: 20px;
+    
+}
+
+.filme1{
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    padding: 2px;
+    
+}
+
+.filme2{
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+.filme3{
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+.filme4{
+
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+.filme5{
+    
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+.filme6{
+    
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+a{
+    text-decoration: none;
+}

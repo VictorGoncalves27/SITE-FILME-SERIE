@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0%px;
+}
+body{
+    background-color: #3D3535;
+    text-align: center;
+    padding: 10px;
+}
+
+main{
+    text-align: center;
+}
+
+article{
+    width: 70%;
+    margin: auto;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 25px;
+    padding-top: 10px;
+    font-size: x-large;
+
+}
+
+.img1{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+}
+
+p{
+    color: white;
+    display: flex;
+    text-align: center;
+    margin: 10px;
+    font-size: large;
+}
+
+.img2{
+    display: flex;
+    justify-content: space-between;
+}
+
+hr{
+    margin: 25px;
+}

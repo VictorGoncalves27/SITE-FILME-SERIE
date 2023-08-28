@@ -1,0 +1,91 @@
+body{
+    background-color: #3D3535;
+}
+main{
+    
+    margin: auto;
+    
+}
+
+.nome{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    color: #FFFEFE;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: McLaren;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    justify-content: space-around;
+    
+}
+
+.acesso1 h3:hover{
+    background-color: rgb(0, 0, 0);
+    transition: .5s;
+    text-decoration: none;
+    
+}
+
+.acesso1 h3{
+    display: flex;
+    color: white;
+    background-color: rgb(190, 35, 56);
+    transition: .5s;
+    text-decoration: none;
+    background-color: rgb(190, 35, 56);
+    transition: .5s;  
+    padding: 20px 30px;
+    border-radius: 25px;
+    justify-content: center;
+    padding-bottom: 20px;
+    width: 500px;
+    margin: 20px auto;
+
+}
+
+.acesso1 a{
+    text-align: center;
+}
+
+.filme1{
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+.filme2{
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+.filme3{
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+.filme4{
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+.filme5{
+    border: 3px solid  rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+a{
+    text-decoration: none;
+}
